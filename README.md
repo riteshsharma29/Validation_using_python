@@ -7,4 +7,6 @@ py-selenium <br>
 pyautogui <br>
 beautifulsoup "bs4" <br>
 
+unzip drivers.zip,pcodelib.zip
+
 test_1.py is just numrical problem solution.
